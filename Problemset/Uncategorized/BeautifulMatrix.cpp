@@ -3,6 +3,9 @@
 
 using namespace std;
 
+// Link of the problem
+// https://codeforces.com/contest/263/problem/A
+
 int main()
 {
 	//declare variables
